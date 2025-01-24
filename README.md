@@ -1,4 +1,4 @@
-# Crop-and-Fertilizer-Recommendation
+# Crop-and-Fertilizer-Recommendation WEEK-1
 Crop and Fertilizer Recommendation
 **Description**  
 A system designed to suggest the most appropriate crops by analyzing environmental and soil characteristics, including temperature, soil pH, rainfall, humidity, and nutrient concentrations like nitrogen, potassium, and phosphorus.  
